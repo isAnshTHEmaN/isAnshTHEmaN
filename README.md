@@ -1,4 +1,7 @@
-<h1 align="center">Anshuman Roy</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Greetings, I am Anshuman Roy. " /></a>
+</p>
+
 <h2 align="center">"Victory Belongs To The Most Tenacious"</h2>
 <p align="center">
   <img width="1000" height="600" src="https://github.com/isAnshTHEmaN/isAnshTHEmaN/assets/167146406/3849c8c3-4aef-4c52-a515-2b1ae0c0f443">
