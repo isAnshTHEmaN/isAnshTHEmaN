@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Good day, I am Anshuman Roy. " /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=    Good day, I am Anshuman Roy. " /></a>
 </p>
 
 <h2 align="center">"Victory Belongs To The Most Tenacious"</h2>
